@@ -1,2 +1,2 @@
 This is my first Repo........
-this is my fist repo # from local repo
+this is first from remote repo
